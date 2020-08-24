@@ -10,7 +10,7 @@
 <img align='center' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100">
 
 
-<p><em> Administrator at<a href="https://www.ardroid.in">ARDROID UPDATES</em>
+<p><em> Administrator at <a href="https://www.ardroid.in">ARDROID UPDATES</em>
 </p>
 
 <h5>
