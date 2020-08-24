@@ -1,9 +1,10 @@
 # ARJUN RAGHUNANDANAN
 
  <h2>  Hey ! !  Welcome to my Github Profile
- 
+ <br>
  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="">
  </h2>
+ <br>
 <h5>I am a Community serving Programmer who wants use my skills for something good for society
 <br><br>
 <img align='center' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="100">
