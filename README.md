@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td>
-      <img src="https://lh3.googleusercontent.com/jgbddEHgpeuUrjcFDov8Mw_qastwddPpq6in9h3a4_ETSKV5q0Sg0XAsQnewho13Ac0VZumtuxrfgNXL-KI6mFE=w16383" alt="Arjun Raghunandanan" style="max-width: 100%; height: auto; display: block;">
+      <img src="https://lh6.googleusercontent.com/rIG6uzUQLHysSsjKmSUqax-hhd-h-w8dBgotUGw4mcXSeqt12iHDl_gj2RrE6r-Bcl0pc6jKv_ZbhfTf7VgQY8Y=w16383" alt="Arjun Raghunandanan" style="max-width: 100%; height: auto; display: block;">
     </td>
     <td>
       <h4 align="left">I am Arjun Raghunandanan, an emerging tech enthusiast and IT consultant. I have a strong passion for philosophical exploration, personal growth, and professional development. I am a self-learner who actively explores diverse fields beyond my work domain.</h4>
