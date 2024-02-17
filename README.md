@@ -9,7 +9,7 @@
       <img src="https://avatars.githubusercontent.com/u/42718953?v=4" alt="Arjun Raghunandanan" style="max-width: 100%; height: auto; display: block;">
     </td>
     <td>
-      <h4 align="left">I am Arjun Raghunandanan, an emerging tech enthusiast and IT consultant. I have a strong passion for philosophical exploration, personal growth, and professional development. I am a self-learner who actively explores diverse fields beyond my work domain.</h4>
+      <h4 align="left">An Emerging Tech Enthusiast with a Passion for Philosophical Exploration, Personal Growth, and Professional Development.</h4>
     </td>
   </tr>
  <tr>
