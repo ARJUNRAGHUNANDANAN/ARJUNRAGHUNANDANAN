@@ -57,24 +57,22 @@ Feel free to search for my name, Arjun Raghunandanan, on almost any social media
 - Programming
 - Web Development
 
-
-
 ## Career Preference
 
 I am seeking job opportunities that value my enthusiasm for learning, exploring, and embracing new challenges. I strive to continuously enhance my skills and knowledge.
 
 ## About Me
 
-As an IT consultant and emerging technology enthusiast, I bring a unique perspective to every project I undertake. I am driven by my passion for personal growth, philosophical exploration, and professional development, which motivate me to consistently improve my skills and performance. Throughout my career, I have fulfilled various roles, including student volunteer, social worker, IT professional for non-profit organizations, freelancer for small businesses, and contract employee.
+Hey, 
+
+I am  Arjun. I am passionate about leveraging technology to solve complex problems and make a positive impact and I am starting a career focused on intersection of Data, AI/ML & Cloud. I am working on being the best possible self. Driven by an unwavering passion to grow, and for unraveling the hidden patterns that shape our lives, I'm currently pursuing a BS Degree in Data Science on a Part-Time basis while spending lots of time upskilling on other learning platforms. 
 
 In addition to my technical expertise, I am deeply committed to gaining insights into different world views, work ethics, geopolitics, scientific breakthroughs, cultures, and beliefs. I actively welcome challenges to my beliefs as they contribute to building a stronger personality by breaking down weaker characteristics.
 
-## Learning Resources
+## Learning Progress
 
-Currently, I am pursuing full-time online learning opportunities and utilize the following resources:
-
-- [Coursera](https://www.arjunraghunandanan.com/learning-education/coursera)
-- [Data Science Online Degree at IIT Madras](https://app.onlinedegree.iitm.ac.in/student/23F1002203)
+- [My Learnings](https://www.arjunraghunandanan.com/learning)
 - YouTube tutorials
-- [Google Cloud Skill Boost Platform](https://www.cloudskillsboost.google/public_profiles/2648e85b-eed1-444f-a21a-864da942d851)
+- [GSCS Account Old](https://www.cloudskillsboost.google/public_profiles/2648e85b-eed1-444f-a21a-864da942d851)
+- [GSCS Account New](https://www.cloudskillsboost.google/public_profiles/3ef4afa5-0bf9-4b62-b037-bd8f773f947b) 
 
