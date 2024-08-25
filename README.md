@@ -41,7 +41,7 @@ I'm a self-driven learner with a strong passion for Data Science, Machine Learni
 ## 🔗 Other Supporting Links
 
 <p align="left">
-  <a href="https://arjunraghunandanan.com/learning" target="_blank">
+  <a href="https://arjunraghunandanan.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://coursera.org/learner/arjunraghunandanan" target="_blank">
