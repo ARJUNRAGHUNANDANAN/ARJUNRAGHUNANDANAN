@@ -1,78 +1,107 @@
-<table style="border-collapse: collapse; width: 100%; border: none;">
+# Arjun Raghunandanan
+
+### Seeking an Entry-Level Data Science, Machine Learning, and AI Role to Gain Practical Experience
+
+I'm a self-driven learner with a strong passion for Data Science, Machine Learning, and AI. I value industry certifications from platforms like GCP, Azure, and Intel, and I am continuously improving my skill set to stay up-to-date with the latest technologies.
+
+---
+
+## 🛠 Skills & Interests
+
+**Data Science**, **Self-Learning**, **IT Support**, **Leadership**, **Cloud (GCP, Intel, Azure)**, **Data Engineering Tools**, **Python Programming**, **Problem Solving**
+
+## 🌱 Hobbies
+
+**Learning Online**, **Gym / Cycling**, **Browsing Web Articles**, **Mobile Photography**, **Watching Movies & Documentaries**, **Keeping Up with Tech Trends**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://twitter.com/arjun_ardroid" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjunraghunandanan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/arjunraghunandanan" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://www.facebook.com/arjun.raghunandanan/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/arjunraghunandanan/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🔗 Other Supporting Links
+
+<p align="left">
+  <a href="https://arjunraghunandanan.com/learning" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+  <a href="https://coursera.org/learner/arjunraghunandanan" target="_blank">
+    <img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera"/>
+  </a>
+  <a href="https://credly.com/users/arjunraghunandanan" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+  </a>
+  <a href="https://github.com/ARJUNRAGHUNANDANAN" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/arjunraghunandanan" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://g.dev/arjunraghunandanan" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile"/>
+  </a>
+</p>
+
+---
+
+## 🏅 Certifications
+
+<p align="left">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Google%20Cloud%20Certified-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Certified Associate Cloud Engineer" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Intel%20Certified-0071C5?style=for-the-badge&logo=intel&logoColor=white" alt="Intel Certified Developer MLOps Professional" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Microsoft%20Certified-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Certified: Azure Data Scientist Associate" />
+  </a>
+</p>
+
+- **Google Cloud Certified Associate Cloud Engineer**
+  - Issued on: Nov 18, 2023
+  - Expires on: Nov 18, 2026
+
+- **Intel Certified Developer MLOps Professional**
+  - Issued on: Dec 29, 2023
+  - Expires on: Dec 29, 2026
+
+- **Microsoft Certified: Azure Data Scientist Associate**
+  - Issued on: May 27, 2024
+  - Expires on: May 28, 2025
+---
+
+## 📊 GitHub Stats
+
+<table>
   <tr>
-    <td colspan="2">
-      <h3 align="center">Arjun Raghunandanan</h3>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunraghunandanan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
     </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://avatars.githubusercontent.com/u/42718953?v=4" alt="Arjun Raghunandanan" style="max-width: 100%; height: auto; display: block;">
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=arjunraghunandanan&show_icons=true&locale=en" alt="GitHub Stats" />
     </td>
-    <td>
-      <h4 align="left">An Emerging Tech Enthusiast with a Passion for Philosophical Exploration, Personal Growth, and Professional Development.</h4>
-    </td>
-  </tr>
- <tr>
-    <td colspan="2">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arjunraghunandanan&show_icons=true&locale=en&layout=compact" alt="arjunraghunandanan" /></p>
-    </td>
- </tr >
- <tr>
-    <td colspan="2">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjunraghunandanan&show_icons=true&locale=en" alt="arjunraghunandanan" /></p>
-    </td>
- </tr>
- <tr>
-    <td colspan="2">
-      <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjunraghunandanan&" alt="arjunraghunandanan" /></p>
-    </td>
- </tr>
- <tr>
-    <td colspan="2">
-      <p align="left"> <a href="https://twitter.com/arjun_ardroid" target="blank"><img src="https://img.shields.io/twitter/follow/arjun_ardroid?logo=twitter&style=for-the-badge" alt="arjun_ardroid" /></a> </p>
-     <p align="right"> Modified  <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="blank">Profile Generator</a> Output </p>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arjunraghunandanan" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/arjun_ardroid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arjun_ardroid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arjunraghunandanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arjunraghunandanan/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/arjunraghunandanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/arjunraghunandanan" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/arjun.raghunandanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arjun.raghunandanan/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/arjunraghunandanan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/arjunraghunandanan/" height="30" width="40" /></a>
-<br>
-Feel free to search for my name, Arjun Raghunandanan, on almost any social media platform. You can also visit my <a href="https://www.arjunraghunandanan.com">website</a>.
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-- Cyber Security
-- IT Support
-- Cloud Computing
-- Data Science
-- Data Analytics
-- Programming
-- Web Development
-
-## Career Preference
-
-I am seeking job opportunities that value my enthusiasm for learning, exploring, and embracing new challenges. I strive to continuously enhance my skills and knowledge.
-
-## About Me
-
-Hey, 
-
-I am  Arjun. I am passionate about leveraging technology to solve complex problems and make a positive impact and I am starting a career focused on intersection of Data, AI/ML & Cloud. I am working on being the best possible self. Driven by an unwavering passion to grow, and for unraveling the hidden patterns that shape our lives, I'm currently pursuing a BS Degree in Data Science on a Part-Time basis while spending lots of time upskilling on other learning platforms. 
-
-In addition to my technical expertise, I am deeply committed to gaining insights into different world views, work ethics, geopolitics, scientific breakthroughs, cultures, and beliefs. I actively welcome challenges to my beliefs as they contribute to building a stronger personality by breaking down weaker characteristics.
-
-## Learning Progress
-
-- [My Learnings](https://www.arjunraghunandanan.com/learning)
-- YouTube tutorials
-- [GSCS Account Old](https://www.cloudskillsboost.google/public_profiles/2648e85b-eed1-444f-a21a-864da942d851)
-- [GSCS Account New](https://www.cloudskillsboost.google/public_profiles/3ef4afa5-0bf9-4b62-b037-bd8f773f947b) 
-
